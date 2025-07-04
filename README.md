@@ -1,2 +1,4 @@
 # Weather-Web-App
 Weather Web App By HTML,CSS AND JAVASCRIPT
+This Weather Web App provides users with an elegant and intuitive interface to check real-time weather updates for any city using the RapidAPI platform. Featuring a sleek search bar and a modern glassmorphism-style results card, the app displays live weather data such as temperature, humidity, wind speed, pressure, and general conditions in a visually appealing format. With responsive design and a calming background image, it creates a smooth user experience on both desktop and mobile. Built using HTML, CSS, and JavaScript, the app demonstrates API integration, dynamic DOM manipulation, and modern UI styling. At the bottom, users are reminded to “stay prepared, stay safe,” along with quick access to social profiles — making it both informative and personal. Ideal for learning frontend API use, UI/UX design, and project deployment.
+
